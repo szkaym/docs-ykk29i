@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-eadx6o.evergrowadvisor.com/sitemap.xml
